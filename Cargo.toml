@@ -1,9 +1,9 @@
 [package]
-name = "patricia-trie"
+name = "tetsy-patricia-trie"
 version = "0.1.1"
 authors = ["Parity Technologies <admin@parity.io>"]
-description = "Merkle-Patricia Trie (Ethereum Style)"
-repository = "https://github.com/paritytech/patricia-trie"
+description = "Merkle-Patricia Trie (Vapory Style)"
+repository = "https://github.com/tetcoinn/patricia-trie"
 license = "GPL-3.0"
 
 [dependencies]
